@@ -1,36 +1,3 @@
-languageCode: "en-us"
-baseUrl: "https://ximhear.github.io""
-title: "ximhear"
-theme: "anubis"
-paginate: 10
-disqusShortname: ximhear
-googleAnalytics: UA-123-45
-enableRobotsTXT: true
-
-menu:
-  main:
-  - identifier: archive
-    name: Archive
-    title: Archive
-    url: /posts/
-    weight: 0
-
-params:
-  author: "ximhear"
-  description: ""
-  images:
-    - images/og-featured.png # relative path to "static" directory
-  customCSS:
-    - css/my.css # relative path to "static" directory
-  customJS:
-    - js/main.js # relative path to "static" directory
-  dateFormat: "2006-01-02"
-  paginationSinglePost: true
-  style: light-without-switcher
-  readMore: false
-
-markup:
-  goldmark:
-    renderer:
-      unsafe: true # enable raw HTML in Markdown
-
+baseURL = "https://ximhear.github.io"
+languageCode = "en-us"
+title = "ximhear Site"
