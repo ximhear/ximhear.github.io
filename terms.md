@@ -1,3 +1,3 @@
 layout: page
 title: TERMS
-permalink: /terms
+permalink: //terms/
