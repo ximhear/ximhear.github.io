@@ -3,7 +3,7 @@ baseUrl: "https://ximhear.github.io"
 title: "ximhear"
 theme: "anubis"
 paginate: 10
-disqusShortname: yourdiscussshortname
+disqusShortname: ximhear
 googleAnalytics: UA-123-45
 enableRobotsTXT: true
 
@@ -16,7 +16,7 @@ menu:
     weight: 0
 
 params:
-  author: ""
+  author: "ximhear"
   description: ""
   images:
     - images/og-featured.png # relative path to "static" directory
