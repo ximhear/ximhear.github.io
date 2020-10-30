@@ -1,6 +1,6 @@
 languageCode: "en-us"
-baseUrl: ""
-title: "Anubis"
+baseUrl: "https://ximhear.github.io"
+title: "ximhear"
 theme: "anubis"
 paginate: 10
 disqusShortname: yourdiscussshortname
