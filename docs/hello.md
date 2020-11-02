@@ -1,5 +1,5 @@
 layout: page
 title: "HELLO"
-permalink: /about/
+permalink: /gzonelee/
 
 *Good*
