@@ -1,9 +1,9 @@
 {
   "applinks": {
-    "apps": ["g.Sharing"],
+    "apps": ["WD3LPJ2STX.g.Sharing"],
     "details": [
       {
-        "appID": "g.Sharing",
+        "appID": "WD3LPJ2STX.Sharing",
         "paths": [ "/hello" ]
       }
     ]
