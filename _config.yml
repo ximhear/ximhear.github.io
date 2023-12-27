@@ -32,7 +32,8 @@ theme: minima
 plugins:
   - jekyll-feed
 
-include: [".well-known"]
+include:
+  - ".well-known"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
