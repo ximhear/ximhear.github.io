@@ -3,7 +3,7 @@
     "details": [
       {
         "appID": "WD3LPJ2STX.g.Sharing",
-        "paths": [ "/hello/" ]
+        "paths": [ "/hello/", "/hello" ]
       }
     ]
   }
