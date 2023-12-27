@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "WD3LPJ2STX.Sharing",
-        "paths": [ "/hello" ]
+        "paths": [ "/hello/" ]
       }
     ]
   }
