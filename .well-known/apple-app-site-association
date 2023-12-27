@@ -1,10 +1,10 @@
 {
   "applinks": {
-    "apps": [],
+    "apps": ["g.Sharing"],
     "details": [
       {
         "appID": "g.Sharing",
-        "paths": [ "/hello*" ]
+        "paths": [ "/hello" ]
       }
     ]
   }
