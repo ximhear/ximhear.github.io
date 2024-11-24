@@ -2,18 +2,18 @@
   "applinks": {
     "details": [
       {
+        "appID": "WD3LPJ2STX.g.linktest",
+        "paths": [
+          "/about/", "/about", "/jekyll/update/*"
+        ]
+      },
+      {
         "appID": "WD3LPJ2STX.g.Sharing",
         "paths": [ "/hello/", "/hello" ]
       },
       {
         "appID": "XWWL2G5F4B.kr.sejongsmartcity.o1link",
         "paths": [ "/hello/", "/hello" ]
-      },
-      {
-        "appID": "WD3LPJ2STX.g.linktest",
-        "paths": [
-          "/about/", "/about", "/jekyll/update/*"
-        ]
       }
     ]
   }
