@@ -12,7 +12,7 @@
       {
         "appID": "WD3LPJ2STX.g.AppLink",
         "paths": [
-          "/about"
+          "/about", "/about/"
         ]
       }
     ]
