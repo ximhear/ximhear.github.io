@@ -8,6 +8,12 @@
       {
         "appID": "XWWL2G5F4B.kr.sejongsmartcity.o1link",
         "paths": [ "/hello/", "/hello" ]
+      },
+      {
+        "appID": "WD3LPJ2STX.g.AppLink",
+        "paths": [
+          "*"
+        ]
       }
     ]
   }
