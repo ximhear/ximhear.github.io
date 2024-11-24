@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "g.app.link",
+    "package_name": "g.app.link.gapplink",
     "sha256_cert_fingerprints":
     ["9A:41:CD:59:05:76:B0:55:BE:EF:8F:D1:37:A7:B3:2D:A5:3E:0A:5F:EA:C5:58:54:B1:B8:B6:DE:19:F7:95:3F"]
   }
