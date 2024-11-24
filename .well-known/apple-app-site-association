@@ -12,7 +12,7 @@
       {
         "appID": "WD3LPJ2STX.g.linktest",
         "paths": [
-          "/about", "/about/"
+          "/about/", "/about", "/jekyll/update/*"
         ]
       }
     ]
