@@ -10,7 +10,7 @@
         "paths": [ "/hello/", "/hello" ]
       },
       {
-        "appID": "WD3LPJ2STX.g.AppLink",
+        "appID": "WD3LPJ2STX.g.linktest",
         "paths": [
           "/about", "/about/"
         ]
